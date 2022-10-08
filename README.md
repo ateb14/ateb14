@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Yiyang Wang, an undergraduate majoring in computer science and technology in Peking University.  
+
 
 <!--
 **ateb14/ateb14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
